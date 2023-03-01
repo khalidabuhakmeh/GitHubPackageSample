@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <PackageId>GitHubPackageSample</PackageId>
+        <Version>1.0.0</Version>
+        <Authors>Khalid Abuhakmeh</Authors>
+        <Company>Khalid Inc.</Company>
+        <Description>Testing out GitHub Package Management</Description>
+        
+    </PropertyGroup>
+
+</Project>
